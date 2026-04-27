@@ -1,7 +1,7 @@
 David Ariza
 jda3867
 DaviddAriza
-https://us-west-2.console.aws.amazon.com/ec2/home?region=us-west-2#Instances:
+https://ec2-18-236-242-134.us-west-2.compute.amazonaws.com
 
 
 WRF Web App
